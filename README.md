@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergey38202&label=Profile%20views&color=0e75b6&style=flat" alt="sergey38202" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-client-xi.vercel.app](https://portfolio-client-xi.vercel.app)
-
 - 📫 How to reach me **khachikyansergey14@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-client-xi.vercel.app](https://portfolio-client-xi.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
